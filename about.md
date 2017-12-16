@@ -26,7 +26,9 @@ The pizza and Greek salads are recommended and the lamb chops are excellent.
 
 ## Facebook
 
-Club communication officially takes part in the secret Facebook group [Palmetto State Brewers](https://www.facebook.com/groups/410072329138156/). In order
+Club communication officially takes part in the secret Facebook group 
+[Palmetto State Brewers](https://www.facebook.com/groups/410072329138156/){:target="_blank"}. 
+In order to view this page, please contact an existing PSB member.
 
 ## Pay By PayPal
 {% include paypal-form.html %}
