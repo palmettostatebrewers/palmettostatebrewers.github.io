@@ -24,5 +24,9 @@ homebrew or special beer to share. The food is good, plentiful and economical.
 
 The pizza and Greek salads are recommended and the lamb chops are excellent.
 
+## Facebook
+
+Club communication officially takes part in the secret Facebook group [Palmetto State Brewers](https://www.facebook.com/groups/410072329138156/). In order
+
 ## Pay By PayPal
 {% include paypal-form.html %}
