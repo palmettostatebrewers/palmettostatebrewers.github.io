@@ -12,4 +12,8 @@ bundle exec jekyll build
     --user-data-dir \
     http://localhost:4000 \
     &
-bundle exec jekyll serve --verbose --watch --config _config.yml,_config.dev.yml
+bundle exec jekyll serve \
+    --verbose \
+    --config _config.yml,_config.dev.yml \
+    --watch \
+    #--trace
