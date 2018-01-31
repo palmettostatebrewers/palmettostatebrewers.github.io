@@ -4,11 +4,74 @@ This README is a brief summary of all the duties required to maintain and suppor
 website and related technologies. These are the primary duties of the **VP of Communication**. Any additional
 notes and duties should be captured here as needed.
 
-## Updating Website and Creating Posts
+## Updating Website Content
 
-The easiest way to update the website is to create a Github account, navigate to the repository,
-browse for the file in question, and edit that file. For example, to update the list of officers,
-either navigate to the file `officers.html`, then use the in-browser editor to make the needed changes.
+In general, all the updating of page content or creation of new posts can be done from the Github website.
+
+The URL to the repository (the place where all the code is kept and versioned) is at 
+https://github.com/palmettostatebrewers/palmettostatebrewers.github.io. 
+
+### Setup
+
+- Web Browser - any will do
+- A Github account
+  - https://github.com/join 
+  - This is free and easy
+  - Each person should have their own account
+  - This way we can track who changed what and when
+- Have the VP of Communication give new user "write access"
+- Navigate to the repository URL (see above)
+
+### Online Editor
+
+- If adding a new post, click the `_posts` folder icon
+  - Click the "Create new file" button
+  - Name the file (make sure to follow the rules in the "Posts" section)
+  - Add the content
+
+- If updating an existing page (such as the **Officers** page)
+  - Click on the file you want to edit
+  - On the right side there is a pencil icon beside the trash can
+  - Click that, and make the needed changes
+
+- Whenever creating or updating a file
+  - Once changes are done, at the bottom is field for "Commit changes"
+  - Always give a good name and description to your changes
+  - Always select the "Create a new branch for this commit and start a pull request" button
+  - Press "Commit changes"
+
+- This will create what is called a "Pull Request", and show you what has changed
+- If everything looks good, click the "Merge Pull Request" button at the bottom.
+
+
+### Posts
+
+A post is a simple text file (formatted with something called "Github-flavored Markdown", Github
+has a bunch of good tutorials on it). Simply add the text of your post and save and it will 
+be added to the site. Nothing fancy to worry about!
+
+The only requirements is that the name of the file has to follow these rules:
+
+- Start with the date in the format of `year-month-day`
+- Followed by the title of the post (replace any spaces with dashes "-")
+- And ending with an extension of `.md`
+
+For example: `2018-02-01-Febuary-Brew-Session.md`
+
+The header needs to look like the following. Update information such as 
+the title and the tags:
+
+```
+---
+layout: post
+title: "Febuary Brew Session"
+categories:
+  - brewsession
+tags:
+  - brewsession
+---
+```
+
 
 ## Documentation
 
