@@ -72,6 +72,11 @@ tags:
 ---
 ```
 
+### Issue Tracking
+
+Github includes a issue tracking system which the officers and VP of Communication can track 
+technical and website improvements.
+
 
 ## Documentation
 
