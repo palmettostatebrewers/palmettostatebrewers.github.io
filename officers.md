@@ -4,12 +4,31 @@ title: Officers
 sidebar_link: true
 ---
 
+For list of duties and responsibilities, please refer to the *Palmetto State Brewers
+By-Laws*.
 
-| Position                        | Officer       | email                                          |
-| ------------------------------- | ------------- | ---------------------------------------------- |
-| President                       | Wendy Deaton  | president@palmettostatebrewers.com             |
-| VP of Communications            | Wendy Deaton  | communications@palmettostatebrewers.com        |
-| VP of Competitions              | Wendy Deaton  | competitions@palmettostatebrewers.com          |
-| VP of Education and Recruitment | Wendy Deaton  | education-recruitment@palmettostatebrewers.com |
-| VP of Social Events             | Wendy Deaton  | socialevents@palmettostatebrewers.com          |
-| Secretary/Treasurer             | Gregory Giles | treasurer@palmettostatebrewers.com             |
+To contact the officers please email send an email to psb@palemttostatebrewsers.com.
+
+### President
+
+**Kevin Deaton**
+
+### VP of Education and Recruitment
+
+**Chris Wood** 
+
+### VP of Social Events
+
+**Wendy Deaton**                       
+
+### VP of Competitions 
+
+**Mike Hogan and Justin Brooks**
+
+### VP of Communications
+
+**Travis Goldie**
+
+### Secretary/Treasurer
+
+**Gregory Giles**

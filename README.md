@@ -19,8 +19,12 @@ https://github.com/palmettostatebrewers/palmettostatebrewers.github.io.
   - This is free and easy
   - Each person should have their own account
   - This way we can track who changed what and when
+  - Prefix the user name with "PSB" so it is easy to find
+  
 - Have the VP of Communication give new user "write access"
 - Navigate to the repository URL (see above)
+
+(Note the VP of Communications will need to add or remove accounts as needed).
 
 ### Online Editor
 
@@ -35,13 +39,17 @@ https://github.com/palmettostatebrewers/palmettostatebrewers.github.io.
   - Click that, and make the needed changes
 
 - Whenever creating or updating a file
+  - At the top of the editor are 2 tabs "Edit" and "Preview"
+  - Use the "Preview tab" to verify the formatting of the text
   - Once changes are done, at the bottom is field for "Commit changes"
   - Always give a good name and description to your changes
   - Always select the "Create a new branch for this commit and start a pull request" button
   - Press "Commit changes"
 
 - This will create what is called a "Pull Request", and show you what has changed
-- If everything looks good, click the "Merge Pull Request" button at the bottom.
+
+- Once everything is complete and all reviews are done
+  - Press the "Merge Pull Request" button at the bottom.
 
 
 ### Posts
@@ -72,11 +80,32 @@ tags:
 ---
 ```
 
+### Issue Tracking
+
+Github's included issue tracking system allows for easy communication of ideas and history
+tracking of club decisions. This simple system allows each officer to post a new issue
+and to comment on any issue. Once commented, each participate will be sent an email 
+and can then respond as needed.
+
 
 ## Documentation
 
 - Current and past theme's documentations/examples should kept in the `docs/` directory
 - Include any additional notes and files there
+- This will include club documents such as the "By-Laws"
+
+## Domain Name and Club Email Account
+
+The domain name and email mailboxes are managed under a https://godaddy.com account.
+
+- Contact information should be set to the PO Box address
+  - Domain contact information should be the same.
+
+- Payments for the domain name should be made through the PayPal account
+  - The PayPal must keep enough money in the account to handle renewals (~$13)
+
+- Primary mailbox is psb@palemttostatebrewsers.com
+  - Set to forward to VP of Communication's and President's personal email
 
 ## Archive
 
