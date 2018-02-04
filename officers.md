@@ -11,24 +11,24 @@ To contact the officers please email send an email to psb@palemttostatebrewsers.
 
 ### President
 
-**Kevin Deaton**
+Kevin Deaton
 
 ### VP of Education and Recruitment
 
-**Chris Wood** 
+Chris Wood 
 
 ### VP of Social Events
 
-**Wendy Deaton**                       
+Wendy Deaton                       
 
 ### VP of Competitions 
 
-**Mike Hogan and Justin Brooks**
+Mike Hogan and Justin Brooks
 
 ### VP of Communications
 
-**Travis Goldie**
+Travis Goldie
 
 ### Secretary/Treasurer
 
-**Gregory Giles**
+Gregory Giles
