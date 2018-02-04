@@ -15,7 +15,7 @@ beer, so feel free to bring your best (or worst, if you want constructive critic
 
 ## Contact Us
 
-psb@palemttostatebrewsers.com
+<psb@palemttostatebrewsers.com>
 
 Palmetto State Brewers, Inc. <br>
 PO Box 8221                  <br>

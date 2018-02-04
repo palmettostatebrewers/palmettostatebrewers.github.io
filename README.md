@@ -104,7 +104,7 @@ The domain name and email mailboxes are managed under a https://godaddy.com acco
 - Payments for the domain name should be made through the PayPal account
   - The PayPal must keep enough money in the account to handle renewals (~$13)
 
-- Primary mailbox is psb@palemttostatebrewsers.com
+- Primary mailbox is <psb@palemttostatebrewsers.com>
   - Set to forward to VP of Communication's and President's personal email
 
 ## Archive

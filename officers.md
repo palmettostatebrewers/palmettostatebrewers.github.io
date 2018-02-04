@@ -4,10 +4,9 @@ title: Officers
 sidebar_link: true
 ---
 
-For list of duties and responsibilities, please refer to the *Palmetto State Brewers
-By-Laws*.
+For list of duties and responsibilities, please refer to the *Palmetto State Brewers By-Laws*.
 
-To contact the officers please email send an email to psb@palemttostatebrewsers.com.
+To contact the officers please email send an email to <psb@palemttostatebrewsers.com>.
 
 ### President
 
