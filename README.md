@@ -181,3 +181,7 @@ Base URL: `palmettostatebrewers.github.io`
 Redirected to: `palmettostatebrewers.com`
 
 - Check in and wait for DNS update
+
+### Management Through Godaddy.com
+
+- Contact: (480) 505-8877
