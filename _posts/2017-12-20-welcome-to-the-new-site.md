@@ -12,3 +12,5 @@ Welcome to the new website for Palmetto State Brewers! This site will phase-out 
 will be kept safe in what is called a Github Repository. There you can download past files and including an offline copy of the forum.
 
 Remember, for up to date events and discussion remember to join and visit the Facebook group.
+
+[logo](./images/psb_logo.psb)
