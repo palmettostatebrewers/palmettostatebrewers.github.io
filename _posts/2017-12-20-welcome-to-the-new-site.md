@@ -13,4 +13,4 @@ will be kept safe in what is called a Github Repository. There you can download 
 
 Remember, for up to date events and discussion remember to join and visit the Facebook group.
 
-[logo](./images/psb_logo.psb)
+![logo](https://raw.githubusercontent.com/palmettostatebrewers/palmettostatebrewers.github.io/master/_posts/images/psb_logo.png)
