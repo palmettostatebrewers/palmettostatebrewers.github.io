@@ -26,19 +26,18 @@ https://github.com/palmettostatebrewers/palmettostatebrewers.github.io.
 
 (Note the VP of Communications will need to add or remove accounts as needed).
 
-### Online Editor
+### Creating a New Posts
 
-- If adding a new post, click the `_posts` folder icon
+- Before creating a post, upload all your images/files for the post
+   - Do the first step in the next section
+   - (If you forget, you can always do it later and edit the post)
+
+- When adding a new post, click the `_posts` folder icon
   - Click the "Create new file" button
   - Name the file (make sure to follow the rules in the "Posts" section)
   - Add the content
 
-- If updating an existing page (such as the **Officers** page)
-  - Click on the file you want to edit
-  - On the right side there is a pencil icon beside the trash can
-  - Click that, and make the needed changes
-
-- Whenever creating or updating a file
+- After Completing Your Changes
   - At the top of the editor are 2 tabs "Edit" and "Preview"
   - Use the "Preview tab" to verify the formatting of the text
   - Once changes are done, at the bottom is field for "Commit changes"
@@ -51,6 +50,23 @@ https://github.com/palmettostatebrewers/palmettostatebrewers.github.io.
 - Once everything is complete and all reviews are done
   - Press the "Merge Pull Request" button at the bottom.
 
+### Adding Pictures or Files to Posts
+
+- Upload images to the `_posts/images/` folder
+  - Click the "Upload Files" button
+  - Follow the instructions in the page to upload files
+  - After adding everything, commit just like above.
+  - **Replace any spaces or symbols in the file name with dashes or underscores**
+
+- Start creating the post and add content
+
+- Once ready add the images by copying and pasting in the line below
+   - Replace the `image.png` with the name of the file you want to use
+   - Replace the `Preview Text` with a simple description of the image/file
+   
+```
+![Preview Text](https://raw.githubusercontent.com/palmettostatebrewers/palmettostatebrewers.github.io/master/_posts/images/image.png)
+```
 
 ### Posts
 
@@ -66,7 +82,7 @@ The only requirements is that the name of the file has to follow these rules:
 
 For example: `2018-02-01-Febuary-Brew-Session.md`
 
-The header needs to look like the following. Update information such as 
+Paste following to the top of the file (this is called the header). Update information such as 
 the title and the tags:
 
 ```
@@ -79,6 +95,14 @@ tags:
   - brewsession
 ---
 ```
+
+## Updating Existing Pages
+
+
+- If updating an existing page (such as the **Officers** page)
+  - Click on the file you want to edit
+  - On the right side there is a pencil icon beside the trash can
+  - Click that, and make the needed changes
 
 ### Issue Tracking
 
@@ -94,6 +118,7 @@ and can then respond as needed.
 - Include any additional notes and files there
 - This will include club documents such as the "By-Laws"
 
+
 ## Domain Name and Club Email Account
 
 The domain name and email mailboxes are managed under a https://godaddy.com account.
@@ -101,7 +126,7 @@ The domain name and email mailboxes are managed under a https://godaddy.com acco
 - Contact information should be set to the PO Box address
   - Domain contact information should be the same.
 
-- Payments for the domain name should be made through the PayPal account
+- Payments for the domain name and email forwards should be made through the PayPal account
   - The PayPal must keep enough money in the account to handle renewals (~$13)
 
 - Primary mailbox is <psb@palmettostatebrewers.com>
@@ -155,7 +180,4 @@ assets
 Base URL: `palmettostatebrewers.github.io`
 Redirected to: `palmettostatebrewers.com`
 
-- In domain registrar, update CNAME reference
-- In REPO create the `CNAME` file
-  `echo "palmettostatebrewers.com" > CNAME`
 - Check in and wait for DNS update
