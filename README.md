@@ -9,7 +9,7 @@ notes and duties should be captured here as needed.
 In general, all the updating of page content or creation of new posts can be done from the Github website.
 
 The URL to the repository (the place where all the code is kept and versioned) is at 
-https://github.com/palmettostatebrewers/palmettostatebrewers.github.io. 
+[](https://github.com/palmettostatebrewers/palmettostatebrewers.github.io). 
 
 ### Setup
 
@@ -17,11 +17,14 @@ https://github.com/palmettostatebrewers/palmettostatebrewers.github.io.
 - A Github account
   - https://github.com/join 
   - This is free and easy
+  - You can skip all the questions during setup
   - Each person should have their own account
   - This way we can track who changed what and when
   - Prefix the user name with "PSB" so it is easy to find
   
 - Have the VP of Communication give new user "write access"
+  - This has to be done before you can make edits to the
+
 - Navigate to the repository URL (see above)
 
 (Note the VP of Communications will need to add or remove accounts as needed).
@@ -178,10 +181,17 @@ assets
 ## URL Setup
 
 Base URL: `palmettostatebrewers.github.io`
-Redirected to: `palmettostatebrewers.com`
+Forwarded to: `palmettostatebrewers.com`
 
-- Check in and wait for DNS update
+- Login to godaddy.com account
+- Go to "My Products" -> "Domains" -> "DNS"
+- Scroll to bottom of page
+- Edit "Forwarding" field
+  - Forward Type: "Permanent (301)"
+  - Settings: "Forward Only"
+  - Check "Update my nameservers and DNS settings to support this change."
+  - Add a subdomain forwarding for "wwww" to the same address
+- Save
 
-### Management Through Godaddy.com
 
-- Contact: (480) 505-8877
+Tech Support: (480) 505-8877
