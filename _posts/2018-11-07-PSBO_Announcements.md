@@ -5,6 +5,7 @@ categories:
   - PSBO
 tags:
   - PSBO
+last_modified_at: Wed 07 Nov 2018 10:02:00 AM EDT
 ---
 
 Signup: [beerscores.com](http://www.beerscores.com/comp_details.aspx?id=1153)
