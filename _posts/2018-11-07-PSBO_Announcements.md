@@ -1,4 +1,11 @@
-## 20th Annual Palmetto State Brewers Open 
+---
+layout: post
+title: "20th Annual Palmetto State Brewers Open"
+categories:
+  - PSBO
+tags:
+  - PSBO
+---
 
 Signup: [beerscores.com](http://www.beerscores.com/comp_details.aspx?id=1153)
 
