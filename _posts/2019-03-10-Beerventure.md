@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "2019 Spring Party"
+title: "2019 Beerventure"
 categories:
-  - parties
+  - beerventure
 tags:
-  - parties
+  - beerventure
 ---
 The 2019 Beerventure will be August 24, 2019. We will be touring breweries in the Fort Mill, SC. Breweries to be determined. 
 
