@@ -2,9 +2,9 @@
 layout:  post
 title:   "April Brew Session 2019"
 categories:
-  - brew session
+  - BrewSession
 tags:
-  - brew session
+  - BrewSession
 ---
  
 We are currently looking for someone to host the April Brew Session. A brew session is a great way to see how your fellow
