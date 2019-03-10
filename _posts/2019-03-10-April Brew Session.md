@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   "2019 April Brew Session"
+title:   "April Brew Session 2019"
 categories:
   - brew session
 tags:
