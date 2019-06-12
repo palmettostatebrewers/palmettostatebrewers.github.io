@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2019 PSB Brewventure
+title: "2019 PSB Brewventure"
 categories:
   - Brewventure
 tags:
